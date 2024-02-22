@@ -1,0 +1,8 @@
+"id 
+(AUTO_INCREMENT)",order_number,member_buyer_id,member_seller_id,product_id,quantity,price,order_date,shipping_method,payment_method,shipping_fee,shipping_address_id,coupon_id,shipping_discount_id,product_discount,shipping_discount,product_discount,shipping_discount,status,,,,
+1,5d5ae9eb-5cb4-a72a-5c80-395ea628b4e7,1,5,5,1,1350,2024-01-25,1,2,60,2,null,37,0,60,,,2,,,,
+2,5d5ae9eb-5cb4-a72a-5c80-395ea628b4e7,1,5,10,1,1053,2024-01-25,1,2,60,2,null,37,0,60,,,2,,,,
+3,94d116c8-e3a5-05ba-adb9-8ff05c9f79e1,1,3,8,1,1125,2024-01-25,1,2,60,2,2,null,100,0,,,2,,,,
+4,94d116c8-e3a5-05ba-adb9-8ff05c9f79e1,1,3,13,1,720,2024-01-25,1,2,60,2,2,null,100,0,,,2,,,,
+5,94d116c8-e3a5-05ba-adb9-8ff05c9f79e1,1,3,23,1,1350,2024-01-25,1,2,60,2,2,null,100,0,,,2,,,,
+,,,,,,,,,,,,,,,,,,,,,,

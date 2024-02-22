@@ -1,0 +1,10 @@
+"id
+ (AUTO_INCREMENT)",member_id,shipping_method,home1,home2,home3,seven1,seven2,seven3,,,,,,,,,,,,,,,,
+1,1,2,"[ [""name"":""張婉婷"", ""phone"":""0912345677"", ""address"":""台北市中山區榮星花園 1 號"", ""specialPreferences"":[""AddressType"":""住家-有管理室"" , ""DeliveryTimePreference"": ""全天可收 (10:00 - 21:00)""
+] ]",,,,,,,,,,,,,,,,,,,,,
+2,1,1,,,,"[ [""name"":""張婉婷"", ""phone"":""0912345677"", ""seventInfo"":[""storeNmae"":""華泰城門市"" , ""adress"": ""桃園市中壢區春德路159號86櫃位""
+] ]",,,,,,,,,,,,,,,,,,
+3,2,1,,,,"[ [""name"":""陳冠宇"", ""phone"":""0923456787"", ""seventInfo"":[""storeNmae"":""新北大門市"" , ""adress"": ""237新北市三峽區大學路156號1樓""
+] ]",,,,,,,,,,,,,,,,,,
+4,2,2,"[ [""name"":""陳冠宇"", ""phone"":""0923456787"", ""address"":"""",  ""specialPreferences"":[""AddressType"":"""" , ""DeliveryTimePreference"": ""全天可收 (10:00 - 21:00)""
+] ]",,,,,,,,,,,,,,,,,,,,,
